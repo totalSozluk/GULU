@@ -2,7 +2,7 @@
   "name": "Gulu the Fip Warrior",
   "symbol": "GULU",
   "description": "Hi my name is Gulu. I am diagnosed with Ocular Fip disease. I am going to win this battle.",
-  "image": "https://bafybeickdx7hsltqsutbt54ftyhossav7bm5oybcore267u5kwvj4ecjs4.ipfs.w3s.link/gulu-logo.png",
+  "image": "https://github.com/totalSozluk/GULU/blob/main/gulu-logo.png?raw=true",
   "extensions": {
     "twitter": "https://x.com/Gulufipwarrior",
     "telegram": "https://t.me/gulu1000”
@@ -14,7 +14,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://bafybeickdx7hsltqsutbt54ftyhossav7bm5oybcore267u5kwvj4ecjs4.ipfs.w3s.link/gulu-logo.png",
+        "uri": "https://github.com/totalSozluk/GULU/blob/main/gulu-logo.png?raw=true",
         "type": "image/png"
       }
     ],
