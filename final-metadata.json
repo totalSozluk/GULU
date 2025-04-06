@@ -5,18 +5,16 @@
   "image": "https://raw.githubusercontent.com/totalSozluk/GULU/main/gulu-logo.png",
   "seller_fee_basis_points": 222,
   "uri": "https://raw.githubusercontent.com/totalSozluk/GULU/main/final-metadata.json",
-  "extensions": {
-    "twitter": "https://x.com/Gulufipwarrior",
-    "telegram": "https://t.me/guluthefipwarrior"
-  },
   "attributes": [
-    { "Species": "Cat" },
-    { "Diagnosis": "Ocular FIP" },
-    { "Mission": "Survival & Awareness" },
-    { "Warrior Level": "Legendary" },
-    { "Support Token": "Yes" }
+    { "trait_type": "Name", "value": "Gulu" },
+    { "trait_type": "Species", "value": "Cat" },
+    { "trait_type": "Diagnosis", "value": "Ocular FIP" },
+    { "trait_type": "Mission", "value": "Survival & Awareness" },
+    { "trait_type": "Warrior Level", "value": "Legendary" },
+    { "trait_type": "Support Token", "value": "Yes" },
+    { "trait_type": "Family", "value": "FIP Healing Movement" },
+    { "trait_type": "Movement", "value": "FIP Healing Movement" }
   ],
-  "collection": null,
   "properties": {
     "files": [
       {
@@ -32,5 +30,9 @@
         "verified": true
       }
     ]
+  },
+  "extensions": {
+    "twitter": "https://x.com/Gulufipwarrior",
+    "telegram": "https://t.me/guluthefipwarrior"
   }
 }
