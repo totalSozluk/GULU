@@ -3,23 +3,20 @@
   "symbol": "GULU",
   "description": "Hi my name is Gulu. I am diagnosed with Ocular Fip disease. I am going to win this battle.",
   "image": "https://raw.githubusercontent.com/totalSozluk/GULU/main/gulu-logo.png",
+  "seller_fee_basis_points": 222,
+  "uri": "https://raw.githubusercontent.com/totalSozluk/GULU/main/final-metadata.json",
   "extensions": {
     "twitter": "https://x.com/Gulufipwarrior",
     "telegram": "https://t.me/guluthefipwarrior"
   },
-  "seller_fee_basis_points": 222,
-  "uri": "https://raw.githubusercontent.com/totalSozluk/GULU/main/final-metadata.json",
   "attributes": [
-    { "trait_type": "Species", "value": "Cat" },
-    { "trait_type": "Diagnosis", "value": "Ocular FIP" },
-    { "trait_type": "Mission", "value": "Survival & Awareness" },
-    { "trait_type": "Warrior Level", "value": "Legendary" },
-    { "trait_type": "Support Token", "value": "Yes" }
+    { "Species": "Cat" },
+    { "Diagnosis": "Ocular FIP" },
+    { "Mission": "Survival & Awareness" },
+    { "Warrior Level": "Legendary" },
+    { "Support Token": "Yes" }
   ],
-  "collection": {
-    "name": "FIP Warriors",
-    "family": "FIP Hope Movement"
-  },
+  "collection": null,
   "properties": {
     "files": [
       {
@@ -30,7 +27,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "BBVPAXVKYdRShbpyW1VMGPxor7BLrFR5dC1cE3xw7XhG",
+        "address": "6VA8QBYmGQPd3UpMzy6zoSh7nNPUb7oKuUpsb1ofeHGe",
         "share": 100,
         "verified": true
       }
