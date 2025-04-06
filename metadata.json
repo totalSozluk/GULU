@@ -5,12 +5,21 @@
   "image": "https://raw.githubusercontent.com/totalSozluk/GULU/main/gulu-logo.png",
   "extensions": {
     "twitter": "https://x.com/Gulufipwarrior",
-    "telegram": "https://t.me/guluthefipwarrior”
-  }
+    "telegram": "https://t.me/guluthefipwarrior"
+  },
   "seller_fee_basis_points": 222,
   "uri": "https://raw.githubusercontent.com/totalSozluk/GULU/main/final-metadata.json",
-  "attributes": [],
-  "collection": null,
+  "attributes": [
+    { "trait_type": "Species", "value": "Cat" },
+    { "trait_type": "Diagnosis", "value": "Ocular FIP" },
+    { "trait_type": "Mission", "value": "Survival & Awareness" },
+    { "trait_type": "Warrior Level", "value": "Legendary" },
+    { "trait_type": "Support Token", "value": "Yes" }
+  ],
+  "collection": {
+    "name": "FIP Warriors",
+    "family": "FIP Hope Movement"
+  },
   "properties": {
     "files": [
       {
