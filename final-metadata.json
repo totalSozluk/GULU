@@ -2,37 +2,35 @@
   "name": "Gulu the Fip Warrior",
   "symbol": "GULU",
   "description": "Hi my name is Gulu. I am diagnosed with Ocular Fip disease. I am going to win this battle.",
-  "image": "https://raw.githubusercontent.com/totalSozluk/GULU/main/gulu-logo.png",
+  "image": "https://apricot-accurate-cheetah-695.mypinata.cloud/ipfs/bafkreichv6oxjsjgql5psu2aytpfs2lj6q77ive5fndscd4cdcvnijgqbe",
   "seller_fee_basis_points": 222,
-  "uri": "https://raw.githubusercontent.com/totalSozluk/GULU/main/final-metadata.json",
+  "extensions": {
+    "twitter": "https://x.com/Gulufipwarrior",
+    "telegram": "https://t.me/guluthefipwarrior"
+  },
   "attributes": [
-    { "trait_type": "Name", "value": "Gulu" },
-    { "trait_type": "Species", "value": "Cat" },
-    { "trait_type": "Diagnosis", "value": "Ocular FIP" },
-    { "trait_type": "Mission", "value": "Survival & Awareness" },
-    { "trait_type": "Warrior Level", "value": "Legendary" },
-    { "trait_type": "Support Token", "value": "Yes" },
-    { "trait_type": "Family", "value": "FIP Healing Movement" },
-    { "trait_type": "Movement", "value": "FIP Healing Movement" }
+    { "Species": "Cat" },
+    { "Diagnosis": "Ocular FIP" },
+    { "Mission": "Survival & Awareness" },
+    { "Warrior Level": "Legendary" },
+    { "Support Token": "Yes" }
   ],
+  "collection": null,
+  "uses": null,
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/totalSozluk/GULU/main/gulu-logo.png",
+        "uri": "https://apricot-accurate-cheetah-695.mypinata.cloud/ipfs/bafkreichv6oxjsjgql5psu2aytpfs2lj6q77ive5fndscd4cdcvnijgqbe",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "6VA8QBYmGQPd3UpMzy6zoSh7nNPUb7oKuUpsb1ofeHGe",
+        "address": "BBVPAXVKYdRShbpyW1VMGPxor7BLrFR5dC1cE3xw7XhG",
         "share": 100,
         "verified": true
       }
     ]
-  },
-  "extensions": {
-    "twitter": "https://x.com/Gulufipwarrior",
-    "telegram": "https://t.me/guluthefipwarrior"
   }
 }
