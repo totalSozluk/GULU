@@ -1,0 +1,14 @@
+{
+  "name": "GULU (Deprecated)",
+  "symbol": "DEAD",
+  "description": "As per the improvement-oriented orders of Mr. Altay, this old token has been rendered unusable and shareholders have been compensated generously.",
+  "seller_fee_basis_points": 0,
+  "uri": "https://raw.githubusercontent.com/totalSozluk/GULU/main/deprecated.json",
+  "creators": [
+    {
+      "address": "BBVPAXVKYdRShbpyW1VMGPxor7BLrFR5dC1cE3xw7XhG",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
